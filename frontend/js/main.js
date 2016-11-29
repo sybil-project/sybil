@@ -1,6 +1,6 @@
 module.exports = () => {
 
-  vueInstance = new Vue({
+  const vueInstance = new Vue({
     el: '#app',
     data: {
       greeting: 'Hello Sybil'
